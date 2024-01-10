@@ -1,4 +1,4 @@
-#Multiform with multiple applications - C#
+# Multiform application 
 Final project of Object Oriented Programming using C# with a multiform application to use a 
 ramdom number generator for lotery, simple calculator, temperature and currency convertion, 
 and ip validation.
